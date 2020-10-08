@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<b>Personal Stuffs:</b>  
 • 👨‍🎓 I’m currently studing in [ITER,Bbsr](https://www.soa.ac.in/iter)  
 • 🌱 I’m currently learning Java & Python  
 • ✍ Ask me anything i'm ready to help  
