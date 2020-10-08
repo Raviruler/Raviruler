@@ -5,3 +5,5 @@
 • ✍ Ask me anything i'm ready to help  
 • 👨‍💻 Member of [Code X](https://github.com/codexiter)  
 • 📫 How to reach me: [Instagram](https://www.instagram.com/__Raviruler__/) or ravikrp22@gmail.com
+
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Raviruler&show_icons=true&hide_border=true)
