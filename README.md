@@ -7,4 +7,6 @@
 • 👨‍💻 Member of [Code X](https://github.com/codexiter)  
 • 📫 How to reach me: [Instagram](https://www.instagram.com/__Raviruler__/) [Linkedin](https://www.linkedin.com/in/ravi-kumar-prasad-16b1881ba/) 
 
+![](https://komarev.com/ghpvc/?username=Raviruler&color=green)
+
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Raviruler&show_icons=true&hide_border=true)
