@@ -5,7 +5,7 @@
 • 🌱 I’m currently learning Java & Python  
 • ✍ Ask me anything i'm ready to help  
 • 👨‍💻 Member of [Code X](https://github.com/codexiter)  
-• 📫 How to reach me: [Instagram](https://www.instagram.com/__Raviruler__/) [Linkedin](https://www.linkedin.com/in/ravi-kumar-prasad-16b1881ba/) 
+• 📫 Follow me: [Instagram](https://www.instagram.com/__Raviruler__/) and [Linkedin](https://www.linkedin.com/in/ravi-kumar-prasad-16b1881ba/) 
 
 ![](https://komarev.com/ghpvc/?username=Raviruler&color=green)
 
