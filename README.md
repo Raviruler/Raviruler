@@ -9,5 +9,5 @@
 
 ![](https://komarev.com/ghpvc/?username=Raviruler&color=green)
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Raviruler&show_icons=true&hide_border=true)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Surajbokde&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Raviruler&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raviruler&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
