@@ -2,7 +2,7 @@
 <b>Personal Stuffs:</b>  
 
 • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter)  
-• 🌱 I’m currently learning Java & Python  
+• 🌱 I’m currently learning Java & Web_Dev  
 • ✍ Ask me anything i'm ready to help  
 • 👨‍💻 Member of [Code X](https://github.com/codex-iter)  
 • 📫 Follow me: [Instagram](https://www.instagram.com/__Raviruler__/) and [Linkedin](https://www.linkedin.com/in/ravi-kumar-prasad-16b1881ba/) 
