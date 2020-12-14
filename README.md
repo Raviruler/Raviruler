@@ -5,7 +5,7 @@
 
 <div>
   <b>
-    • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter)  
+    • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br> 
     • 🌱 I’m currently learning Java & Web_Dev  
     • ✍ Ask me anything i'm ready to help  
     • 👨‍💻 Member of [Code X](https://github.com/codex-iter)  
