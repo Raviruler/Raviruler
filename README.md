@@ -1,5 +1,5 @@
 <img src="https://github.com/Raviruler/Raviruler/blob/main/assets/hello.gif"/>
-<div allign="center"><h2>I'm Ravi<h2></div>
+<div allign="center"><h1>I'm Ravi<h1></div>
 <b>Personal Stuffs:</b>  
 
 • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter)  
