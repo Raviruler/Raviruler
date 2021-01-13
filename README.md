@@ -5,8 +5,7 @@
 
 • 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br> 
 • 🌱 I’m currently learning Java & Web_Dev  
-• ✍ Ask me anything i'm ready to help  
-• 👨‍💻 Member of [Code X](https://github.com/codex-iter)  
+• ✍ Ask me anything i'm ready to help   
 • 📫 Find me: [Instagram](https://www.instagram.com/__Raviruler__/) and [Linkedin](https://www.linkedin.com/in/ravi-kumar-prasad-16b1881ba/) 
 
 ![](https://komarev.com/ghpvc/?username=Raviruler&color=green)
