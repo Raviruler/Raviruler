@@ -7,8 +7,8 @@
   
 <h3><b>Personal Stuffs:</b></h3>
 
-• 👨‍🎓 I’m currently studing in [ITER](https://www.soa.ac.in/iter) <br> 
-• 🌱 I’m currently learning Web_Dev & Python <br>
+
+• 🌱 I’m currently learning Analytics & Generative AI <br>
 • ✍ Ask me anything i'm ready to help
 
 ![](https://komarev.com/ghpvc/?username=Raviruler&color=blue)
